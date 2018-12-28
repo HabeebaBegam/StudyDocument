@@ -1,0 +1,25 @@
+Helpful links
+
+1.Selenium - https://www.javatpoint.com/selenium-tutorial
+
+2.Locators Tutorial –
+	https://www.protechtraining.com/content/selenium_tutorial-locators
+	https://www.guru99.com/locators-in-selenium-ide.html
+	https://www.softwaretestingmaterial.com/locators-in-selenium/
+
+3.Different ways of finding xpath in selenium - https://www.guru99.com/xpath-selenium.html
+
+4.Page object model - https://www.guru99.com/page-object-model-pom-page-factory-in-selenium-ultimate-guide.html - please see this and do some practice.(to understand what is framework)
+
+5.Assertions - https://blogs.perficient.com/2017/01/11/assertions-in-selenium-web-driver/ - this explains what is the use of assertion and how to use assertions
+
+6.Use of Logger file - http://blogs.quovantis.com/how-to-use-log4j-with-selenium-web-driver/
+      			     https://www.guru99.com/tutorial-on-log4j-and-logexpert-with-selenium.html
+                
+7.What is the use of adding jar file for the programs – 
+        http://www.vogella.com/tutorials/JavaLibraries/article.html
+        https://docs.oracle.com/javase/tutorial/deployment/jar/basicsindex.html
+
+8.Cucumber: https://www.tutorialspoint.com/cucumber/
+
+9.https://help.github.com/ 
